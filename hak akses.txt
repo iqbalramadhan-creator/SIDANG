@@ -1,0 +1,8 @@
+Admin : Memiliki hak akses penuh untuk mengelola SinTaris yang terdiri dari ; menambah & merubah data inventaris,
+	melakukan print data inventaris, menambah, merubah & menghapus data pengguna (username, password, dll).
+
+Operator : Memiliki hak akses untuk membantu Admin dalam mengelola SinTaris yang terdiri dari ; menambah & merubah 
+	   data inventaris serta melakukan print data inventaris.
+
+User : Memiliki hak akses hanya untuk mengetahui/melihat data inventaris, dan tidak bisa melakukan perubahan(mengelola)
+	data inventaris.
